@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		EA78259F29BE5EDF00051A08 /* LandingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA78259E29BE5EDF00051A08 /* LandingView.swift */; };
-		EA7825A329BE620000051A08 /* Parameter.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA7825A229BE620000051A08 /* Parameter.swift */; };
 		EAA687842B986F1A00AC806A /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAA687832B986F1A00AC806A /* ViewModel.swift */; };
 		EAA687872B98762900AC806A /* LevelSelectorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAA687862B98762900AC806A /* LevelSelectorView.swift */; };
 		EAA687892B98764500AC806A /* TablesSelectorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAA687882B98764500AC806A /* TablesSelectorView.swift */; };
@@ -22,7 +21,6 @@
 
 /* Begin PBXFileReference section */
 		EA78259E29BE5EDF00051A08 /* LandingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingView.swift; sourceTree = "<group>"; };
-		EA7825A229BE620000051A08 /* Parameter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Parameter.swift; sourceTree = "<group>"; };
 		EAA687832B986F1A00AC806A /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		EAA687862B98762900AC806A /* LevelSelectorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LevelSelectorView.swift; sourceTree = "<group>"; };
 		EAA687882B98764500AC806A /* TablesSelectorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablesSelectorView.swift; sourceTree = "<group>"; };
@@ -97,7 +95,6 @@
 				EAC52C8629AD313F00AC4A19 /* eduentertainmentApp.swift */,
 				EAA687832B986F1A00AC806A /* ViewModel.swift */,
 				EAA687852B98760B00AC806A /* Views */,
-				EA7825A229BE620000051A08 /* Parameter.swift */,
 				EAC52C8A29AD314000AC4A19 /* Assets.xcassets */,
 				EAC52C8C29AD314000AC4A19 /* Preview Content */,
 			);
@@ -184,7 +181,6 @@
 			files = (
 				EAA687872B98762900AC806A /* LevelSelectorView.swift in Sources */,
 				EAA687842B986F1A00AC806A /* ViewModel.swift in Sources */,
-				EA7825A329BE620000051A08 /* Parameter.swift in Sources */,
 				EAA6878F2B98A2A200AC806A /* OptionsView.swift in Sources */,
 				EAC52C8929AD313F00AC4A19 /* ContentView.swift in Sources */,
 				EAC52C8729AD313F00AC4A19 /* eduentertainmentApp.swift in Sources */,
