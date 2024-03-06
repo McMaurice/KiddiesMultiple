@@ -9,9 +9,14 @@ import SwiftUI
 
 @main
 struct eduentertainmentApp: App {
+    @StateObject var parameters: ParameterViewModels = ParameterViewModels()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                ContentView()
+            }
+            .environmentObject(parameters)
         }
     }
 }
